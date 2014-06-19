@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="red">Red alert!</string>
-	<string name="app_name">Hello Scaloid! for sbt</string>
+    <string name="app_name">cOc Genius(Scala)</string>
+	<string name="activate">Activate</string>
+    <string name="hide">Hide</string>
+    <string name="close">Close</string>
 </resources>
